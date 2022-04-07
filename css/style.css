@@ -128,10 +128,16 @@ a:focus {
 }
 
 .custom_nav-container .navbar_img-box {
-  padding: 10px 20px;
-  border: none;
-  width: 35px;
-  height: 35px;
+  /* border: none; */
+  width: 55px;
+  height: 55px;
+
+  position: absolute;
+  
+  left:0px;
+  top:20px;
+  padding:5px 10px;
+
 }
 
 .navbar-brand,
